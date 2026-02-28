@@ -1,6 +1,6 @@
 # ssl-certificat-configuration
-
-Step-by-Step Instructions:
+**
+Step-by-Step Instructions:**
 Edit the Script: Update the DOMAIN_NAME variable (Line 8) with your actual domain.
 Upload to Manager: Move the script to your Wazuh server via SSH or WinSCP.
 Make it Executable:
